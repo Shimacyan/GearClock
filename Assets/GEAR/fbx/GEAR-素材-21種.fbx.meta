@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: c609a41ed6a930b4b9eb4dd2357a2c0e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cross-GEAR
+    100002: Gear-12SPOKE
+    100004: Gear-8SPORK
+    100006: Gear-ALLOW
+    100008: Gear-BASE
+    100010: Gear-BUBBLE
+    100012: Gear-Cross-OUGI
+    100014: Gear-CrossPIPE
+    100016: Gear-MOMIJI
+    100018: Gear-MOON
+    100020: Gear-sakura
+    100022: Gear-SNOW
+    100024: Gear-STARRING
+    100026: Gear-SUN
+    100028: Gear-TriRING
+    100030: //RootNode
+    100032: Gear.CenterHole
+    100034: Gear.IC-1
+    100036: Gear.IC-2
+    100038: Gear.IC-3
+    100040: Gear.Plan
+    100042: Gear.RING
+    400000: Cross-GEAR
+    400002: Gear-12SPOKE
+    400004: Gear-8SPORK
+    400006: Gear-ALLOW
+    400008: Gear-BASE
+    400010: Gear-BUBBLE
+    400012: Gear-Cross-OUGI
+    400014: Gear-CrossPIPE
+    400016: Gear-MOMIJI
+    400018: Gear-MOON
+    400020: Gear-sakura
+    400022: Gear-SNOW
+    400024: Gear-STARRING
+    400026: Gear-SUN
+    400028: Gear-TriRING
+    400030: //RootNode
+    400032: Gear.CenterHole
+    400034: Gear.IC-1
+    400036: Gear.IC-2
+    400038: Gear.IC-3
+    400040: Gear.Plan
+    400042: Gear.RING
+    2100000: No Name
+    2100002: silver
+    2100004: moon-blue
+    2300000: Cross-GEAR
+    2300002: Gear-12SPOKE
+    2300004: Gear-8SPORK
+    2300006: Gear-ALLOW
+    2300008: Gear-BASE
+    2300010: Gear-BUBBLE
+    2300012: Gear-Cross-OUGI
+    2300014: Gear-CrossPIPE
+    2300016: Gear-MOMIJI
+    2300018: Gear-MOON
+    2300020: Gear-sakura
+    2300022: Gear-SNOW
+    2300024: Gear-STARRING
+    2300026: Gear-SUN
+    2300028: Gear-TriRING
+    2300030: Gear.CenterHole
+    2300032: Gear.IC-1
+    2300034: Gear.IC-2
+    2300036: Gear.IC-3
+    2300038: Gear.Plan
+    2300040: Gear.RING
+    3300000: Cross-GEAR
+    3300002: Gear-12SPOKE
+    3300004: Gear-8SPORK
+    3300006: Gear-ALLOW
+    3300008: Gear-BASE
+    3300010: Gear-BUBBLE
+    3300012: Gear-Cross-OUGI
+    3300014: Gear-CrossPIPE
+    3300016: Gear-MOMIJI
+    3300018: Gear-MOON
+    3300020: Gear-sakura
+    3300022: Gear-SNOW
+    3300024: Gear-STARRING
+    3300026: Gear-SUN
+    3300028: Gear-TriRING
+    3300030: Gear.CenterHole
+    3300032: Gear.IC-1
+    3300034: Gear.IC-2
+    3300036: Gear.IC-3
+    3300038: Gear.Plan
+    3300040: Gear.RING
+    4300000: Gear-BASE
+    4300002: Cross-GEAR
+    4300004: Gear-TriRING
+    4300006: Gear-8SPORK
+    4300008: Gear-CrossPIPE
+    4300010: Gear.Plan
+    4300012: Gear.RING
+    4300014: Gear.IC-1
+    4300016: Gear.IC-2
+    4300018: Gear.CenterHole
+    4300020: Gear.IC-3
+    4300022: Gear-12SPOKE
+    4300024: Gear-BUBBLE
+    4300026: Gear-ALLOW
+    4300028: Gear-Cross-OUGI
+    4300030: Gear-STARRING
+    4300032: Gear-sakura
+    4300034: Gear-SUN
+    4300036: Gear-MOMIJI
+    4300038: Gear-SNOW
+    4300040: Gear-MOON
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
